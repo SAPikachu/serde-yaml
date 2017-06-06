@@ -13,7 +13,7 @@ keywords = ["yaml", "serde"]
 linked-hash-map = "0.4"
 num-traits = "0.1.37"
 serde = "1.0"
-yaml-rust = { git = "https://github.com/chyh1990/yaml-rust", rev = "efbe0d583e9673d95a5b4fa575bfdebcf288cd77" }
+yaml-rust = { git = "https://github.com/chyh1990/yaml-rust.git", rev = "efbe0d583e9673d95a5b4fa575bfdebcf288cd77" }
 
 [dev-dependencies]
 serde_derive = "1.0"
